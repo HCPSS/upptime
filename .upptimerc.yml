@@ -61,6 +61,8 @@ sites:
     url: https://pwgen.hcpss.org/
   - name: LAPS
     url: https://laps.hcpss.org/Computer/AccessRequest
+  - name: Service Request (SR)
+    url: https://srapi.hcpss.org/api/auth/login
   - name: CO MTA
     check: "tcp-ping"
     url: coamta.hcpss.org
