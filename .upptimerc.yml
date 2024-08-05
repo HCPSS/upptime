@@ -61,8 +61,18 @@ sites:
     url: https://pwgen.hcpss.org/
   - name: Service Requet (API)
     url: https://srapi.hcpss.org/api/auth/login
+    assignees: 
+      - sherriltart
+      - minakshiHCPSS
+      - siva-selvaraj1
+      - iassanassios
   - name: Service Request (Web)
     url: https://sr.hcpss.org/app/css/styles.css
+    assignees: 
+      - sherriltart
+      - minakshiHCPSS
+      - siva-selvaraj1
+      - iassanassios
   - name: CO MTA
     check: "tcp-ping"
     url: coamta.hcpss.org
