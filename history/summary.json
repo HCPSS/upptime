@@ -667,19 +667,19 @@
     "url": "https://srapi.hcpss.org/api/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/srapi.hcpss.org.ico",
     "slug": "service-requet-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 158,
-    "timeWeek": 233,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 224,
+    "timeDay": 162,
+    "timeWeek": 225,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-08-15": 1
+      "2024-08-15": 9
     }
   },
   {
@@ -687,19 +687,19 @@
     "url": "https://sr.hcpss.org/app/css/styles.css",
     "icon": "https://icons.duckduckgo.com/ip3/sr.hcpss.org.ico",
     "slug": "service-request-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 145,
-    "timeWeek": 292,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 291,
+    "timeDay": 165,
+    "timeWeek": 279,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-08-15": 1
+      "2024-08-15": 9
     }
   },
   {
