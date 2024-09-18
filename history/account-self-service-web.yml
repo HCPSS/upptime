@@ -1,7 +1,7 @@
 url: https://account.hcpss.org/
-status: down
-code: 503
-responseTime: 228
-lastUpdated: 2024-09-18T05:54:12.429Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2024-09-18T06:06:36.874Z
 startTime: 2022-02-25T17:38:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
