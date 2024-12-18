@@ -1,7 +1,7 @@
 url: https://send.hcpss.org/
-status: down
-code: 503
-responseTime: 236
-lastUpdated: 2024-12-18T05:56:16.742Z
+status: up
+code: 200
+responseTime: 20832
+lastUpdated: 2024-12-18T06:22:19.857Z
 startTime: 2022-02-25T17:38:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
