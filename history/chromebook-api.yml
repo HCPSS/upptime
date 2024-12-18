@@ -1,7 +1,7 @@
 url: https://chromebookapi.hcpss.org/
-status: down
-code: 503
-responseTime: 258
-lastUpdated: 2024-12-18T05:56:05.789Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2024-12-18T06:21:40.107Z
 startTime: 2022-02-25T17:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
