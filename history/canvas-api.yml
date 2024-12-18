@@ -1,7 +1,7 @@
 url: https://canvasapi.hcpss.org/
-status: down
-code: 503
-responseTime: 100
-lastUpdated: 2024-12-18T06:47:35.532Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2024-12-18T06:55:35.431Z
 startTime: 2022-02-25T17:38:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
