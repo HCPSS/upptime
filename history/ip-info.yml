@@ -1,7 +1,7 @@
 url: https://ipinfo.hcpss.org/
-status: down
-code: 503
-responseTime: 83
-lastUpdated: 2024-12-18T06:47:01.376Z
+status: up
+code: 200
+responseTime: 356
+lastUpdated: 2024-12-18T07:20:53.103Z
 startTime: 2022-02-25T17:38:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
