@@ -1,7 +1,7 @@
 url: https://smtpapi.hcpss.org/
-status: down
-code: 503
-responseTime: 436
-lastUpdated: 2024-12-18T06:55:27.559Z
+status: up
+code: 200
+responseTime: 367
+lastUpdated: 2024-12-18T07:07:26.196Z
 startTime: 2022-02-25T17:38:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
