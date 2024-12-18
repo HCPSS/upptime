@@ -1,7 +1,7 @@
 url: https://sso-jwt.hcpss.org/sso-jwt/jwt.pub
-status: down
-code: 503
-responseTime: 420
-lastUpdated: 2024-12-18T06:46:44.474Z
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2024-12-18T06:55:23.118Z
 startTime: 2022-02-25T17:37:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
