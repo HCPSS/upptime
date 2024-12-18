@@ -1,7 +1,7 @@
 url: https://saltapi.hcpss.org/
-status: down
-code: 503
-responseTime: 281
-lastUpdated: 2024-12-18T05:56:10.151Z
+status: up
+code: 200
+responseTime: 161
+lastUpdated: 2024-12-18T06:21:43.317Z
 startTime: 2022-02-25T17:38:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
