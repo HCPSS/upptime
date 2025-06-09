@@ -1,7 +1,7 @@
 url: https://borg.hcpss.org/
-status: down
-code: 503
-responseTime: 56
-lastUpdated: 2025-06-09T03:15:55.312Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2025-06-09T04:02:48.248Z
 startTime: 2022-02-25T17:38:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
