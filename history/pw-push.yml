@@ -1,7 +1,7 @@
 url: https://pwpush.hcpss.org/
-status: down
-code: 500
-responseTime: 28815
-lastUpdated: 2025-10-11T10:35:43.048Z
+status: up
+code: 200
+responseTime: 19333
+lastUpdated: 2025-10-11T10:47:03.917Z
 startTime: 2022-02-25T17:38:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
