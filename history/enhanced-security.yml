@@ -1,7 +1,7 @@
 url: https://hcpss.me/enhanced-security/script.js
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 14
-lastUpdated: 2026-04-02T23:13:34.107Z
+lastUpdated: 2026-04-03T14:31:12.287Z
 startTime: 2022-02-25T17:37:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
