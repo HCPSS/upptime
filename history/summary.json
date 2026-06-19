@@ -44,22 +44,23 @@
     "url": "https://hcpss.me/enhanced-security/script.js",
     "icon": "https://icons.duckduckgo.com/ip3/hcpss.me.ico",
     "slug": "enhanced-security",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 60,
-    "timeDay": 225,
-    "timeWeek": 159,
-    "timeMonth": 146,
+    "timeDay": 217,
+    "timeWeek": 165,
+    "timeMonth": 148,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2025-07-25": 17,
       "2025-09-23": 17,
       "2025-10-16": 61,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 6
     }
   },
   {
@@ -89,12 +90,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 480,
     "timeDay": 388,
     "timeWeek": 404,
-    "timeMonth": 344,
+    "timeMonth": 343,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-07-25": 17,
@@ -232,22 +233,23 @@
     "url": "https://sam.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sam.hcpss.org.ico",
     "slug": "student-staff-account-management-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 375,
-    "timeDay": 203,
-    "timeWeek": 326,
-    "timeMonth": 257,
+    "timeDay": 194,
+    "timeWeek": 308,
+    "timeMonth": 255,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-07-25": 17,
       "2025-09-23": 17,
       "2025-10-16": 61,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 6
     }
   },
   {
@@ -255,15 +257,15 @@
     "url": "https://sam.hcpss.org/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/sam.hcpss.org.ico",
     "slug": "student-staff-account-management-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.97%",
     "time": 57,
-    "timeDay": 202,
-    "timeWeek": 227,
+    "timeDay": 191,
+    "timeWeek": 221,
     "timeMonth": 184,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -271,7 +273,8 @@
       "2025-09-15": 11,
       "2025-09-23": 17,
       "2025-10-16": 61,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 6
     }
   },
   {
@@ -297,22 +300,23 @@
     "url": "https://account.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/account.hcpss.org.ico",
     "slug": "account-self-service-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 293,
-    "timeDay": 206,
-    "timeWeek": 293,
+    "time": 292,
+    "timeDay": 219,
+    "timeWeek": 286,
     "timeMonth": 230,
-    "timeYear": 296,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2025-07-25": 18,
       "2025-09-23": 17,
       "2025-10-16": 43,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 5
     }
   },
   {
@@ -320,22 +324,23 @@
     "url": "https://account.hcpss.org/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/account.hcpss.org.ico",
     "slug": "account-self-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 259,
-    "timeDay": 175,
-    "timeWeek": 145,
-    "timeMonth": 458,
-    "timeYear": 241,
+    "timeDay": 178,
+    "timeWeek": 150,
+    "timeMonth": 449,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-07-25": 18,
       "2025-09-23": 17,
       "2025-10-16": 43,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 5
     }
   },
   {
@@ -576,7 +581,7 @@
     "uptime": "94.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.93%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "75.91%",
     "time": 510,
     "timeDay": 552,
@@ -681,15 +686,15 @@
     "url": "https://saltapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/saltapi.hcpss.org.ico",
     "slug": "salt-project-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 230,
-    "timeDay": 198,
-    "timeWeek": 193,
+    "time": 229,
+    "timeDay": 189,
+    "timeWeek": 191,
     "timeMonth": 173,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -697,7 +702,8 @@
       "2025-09-23": 17,
       "2025-10-16": 61,
       "2025-12-29": 21,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 5
     }
   },
   {
@@ -924,10 +930,10 @@
     "url": "aoamta.hcpss.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ao-mta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 35,
@@ -938,7 +944,8 @@
     "dailyMinutesDown": {
       "2025-07-25": 13,
       "2025-08-16": 9,
-      "2026-04-03": 24
+      "2026-04-03": 24,
+      "2026-06-19": 1
     }
   }
 ]
