@@ -1,7 +1,7 @@
 url: https://reg.hcpss.org/
-status: down
-code: 503
-responseTime: 276
-lastUpdated: 2026-07-03T12:00:26.150Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2026-07-03T12:48:38.289Z
 startTime: 2022-02-25T17:37:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
