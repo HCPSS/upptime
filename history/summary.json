@@ -373,13 +373,13 @@
     "url": "https://passwordapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordapi.hcpss.org.ico",
     "slug": "password-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 1063,
+    "time": 1030,
     "timeDay": 300,
     "timeWeek": 432,
     "timeMonth": 537,
@@ -406,7 +406,8 @@
       "2026-01-15": 19,
       "2026-01-24": 14,
       "2026-03-11": 22,
-      "2026-04-10": 40
+      "2026-04-10": 40,
+      "2026-07-07": 1
     }
   },
   {
@@ -487,12 +488,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.06%",
     "time": 347,
     "timeDay": 148,
     "timeWeek": 249,
     "timeMonth": 275,
-    "timeYear": 352,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2025-07-14": 408,
       "2025-07-21": 419,
