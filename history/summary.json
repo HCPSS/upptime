@@ -466,16 +466,16 @@
     "url": "https://meshcentral.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/meshcentral.hcpss.org.ico",
     "slug": "mesh-central",
-    "status": "down",
+    "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "97.58%",
     "time": 343,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 266,
+    "timeDay": 295,
+    "timeWeek": 212,
+    "timeMonth": 274,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-02": 15,
@@ -515,7 +515,7 @@
       "2026-05-09": 24,
       "2026-05-15": 83,
       "2026-08-08": 623,
-      "2026-09-18": 1
+      "2026-09-18": 15
     }
   },
   {
