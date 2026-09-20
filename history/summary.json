@@ -42,9 +42,9 @@
     "slug": "enhanced-security",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 93,
     "timeDay": 242,
@@ -56,7 +56,7 @@
       "2025-10-16": 61,
       "2026-04-03": 24,
       "2026-06-19": 68,
-      "2026-09-20": 7
+      "2026-09-20": 14
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "minio",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.95%",
     "time": 478,
     "timeDay": 197,
@@ -101,7 +101,7 @@
       "2026-02-17": 46,
       "2026-04-03": 24,
       "2026-05-19": 85,
-      "2026-09-20": 6
+      "2026-09-20": 14
     }
   },
   {
@@ -232,9 +232,9 @@
     "slug": "student-staff-account-management-web",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 370,
     "timeDay": 452,
@@ -246,7 +246,7 @@
       "2025-10-16": 61,
       "2026-04-03": 24,
       "2026-06-19": 68,
-      "2026-09-20": 6
+      "2026-09-20": 14
     }
   },
   {
@@ -256,9 +256,9 @@
     "slug": "student-staff-account-management-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 86,
     "timeDay": 204,
@@ -271,7 +271,7 @@
       "2026-04-03": 24,
       "2026-06-19": 67,
       "2026-08-09": 28,
-      "2026-09-20": 6
+      "2026-09-20": 13
     }
   },
   {
@@ -299,9 +299,9 @@
     "slug": "account-self-service-web",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 286,
     "timeDay": 202,
@@ -313,7 +313,7 @@
       "2025-10-16": 43,
       "2026-04-03": 24,
       "2026-06-19": 67,
-      "2026-09-20": 6
+      "2026-09-20": 13
     }
   },
   {
@@ -323,9 +323,9 @@
     "slug": "account-self-service-api",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 249,
     "timeDay": 403,
@@ -337,7 +337,7 @@
       "2025-10-16": 43,
       "2026-04-03": 24,
       "2026-06-19": 67,
-      "2026-09-20": 6
+      "2026-09-20": 13
     }
   },
   {
@@ -672,9 +672,9 @@
     "slug": "salt-project-api",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
     "time": 231,
     "timeDay": 207,
@@ -687,7 +687,7 @@
       "2025-12-29": 21,
       "2026-04-03": 24,
       "2026-06-19": 253,
-      "2026-09-20": 6
+      "2026-09-20": 13
     }
   },
   {
@@ -819,11 +819,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/srapi.hcpss.org.ico",
     "slug": "service-requet-api",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.92%",
     "time": 517,
     "timeDay": 206,
     "timeWeek": 173,
@@ -844,7 +844,7 @@
       "2026-03-08": 13,
       "2026-03-12": 19,
       "2026-04-03": 24,
-      "2026-09-20": 6
+      "2026-09-20": 13
     }
   },
   {
@@ -854,9 +854,9 @@
     "slug": "service-request-web",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 325,
     "timeDay": 446,
@@ -878,7 +878,7 @@
       "2026-03-12": 19,
       "2026-04-03": 24,
       "2026-08-04": 44,
-      "2026-09-20": 5
+      "2026-09-20": 13
     }
   },
   {
@@ -913,11 +913,11 @@
     "url": "aoamta.hcpss.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ao-mta",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 36,
     "timeDay": 0,
@@ -927,7 +927,7 @@
     "dailyMinutesDown": {
       "2026-04-03": 24,
       "2026-06-19": 248,
-      "2026-09-20": 1
+      "2026-09-20": 8
     }
   }
 ]
