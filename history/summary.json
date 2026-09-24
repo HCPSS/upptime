@@ -365,9 +365,9 @@
     "slug": "password-api",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.53%",
     "time": 1014,
     "timeDay": 570,
@@ -394,7 +394,7 @@
       "2026-07-07": 64,
       "2026-08-04": 48,
       "2026-09-04": 8,
-      "2026-09-24": 1
+      "2026-09-24": 32
     }
   },
   {
@@ -555,11 +555,11 @@
     "url": "https://canvasapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/canvasapi.hcpss.org.ico",
     "slug": "canvas-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "75.90%",
     "time": 516,
     "timeDay": 562,
@@ -657,7 +657,8 @@
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 168,
-      "2026-08-04": 47
+      "2026-08-04": 47,
+      "2026-09-24": 11
     }
   },
   {
@@ -665,11 +666,11 @@
     "url": "https://saltapi.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/saltapi.hcpss.org.ico",
     "slug": "salt-project-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 231,
     "timeDay": 201,
@@ -681,7 +682,8 @@
       "2025-12-29": 21,
       "2026-04-03": 24,
       "2026-06-19": 253,
-      "2026-09-20": 14
+      "2026-09-20": 14,
+      "2026-09-24": 10
     }
   },
   {
@@ -729,11 +731,11 @@
     "url": "https://send.hcpss.org/",
     "icon": "https://icons.duckduckgo.com/ip3/send.hcpss.org.ico",
     "slug": "send",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.71%",
     "time": 278,
     "timeDay": 337,
@@ -752,7 +754,8 @@
       "2026-04-03": 25,
       "2026-07-03": 137,
       "2026-08-08": 648,
-      "2026-09-20": 12
+      "2026-09-20": 12,
+      "2026-09-24": 8
     }
   },
   {
