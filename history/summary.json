@@ -320,22 +320,23 @@
     "url": "https://account.hcpss.org/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/account.hcpss.org.ico",
     "slug": "account-self-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 251,
-    "timeDay": 103,
-    "timeWeek": 166,
+    "time": 247,
+    "timeDay": 153,
+    "timeWeek": 171,
     "timeMonth": 198,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-10-16": 43,
       "2026-04-03": 24,
       "2026-06-19": 67,
-      "2026-09-20": 14
+      "2026-09-20": 14,
+      "2026-09-28": 1
     }
   },
   {
